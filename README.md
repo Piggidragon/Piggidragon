@@ -15,6 +15,7 @@
 
 ## 🔭 What I'm working on
 
+- ⚡ **[optllama](https://github.com/generelschwerz/llama.cpp)**: contributing to this llama.cpp fork, mostly benchmarking, scheduler and CPU backend work plus tests.
 - 🤖 **[Pithagoras](https://github.com/thecodacus/pithagoras)**: I'm an active contributor to this AI agent project. Image generation and editing with a gallery, voice improvements, UI polish and docs, and most recently the **Devices add-on**, which lets chats work with files and a shell on paired computers.
 - 🦀 **[Pithagoras-Sync](https://github.com/Piggidragon/Pithagoras-Sync)**: a single Rust binary that lets the Pithagoras agent reach any remote device natively, without SSH.
 - 🧩 **[OpenWebUI-plugins](https://github.com/Piggidragon/OpenWebUI-plugins)**: tools, functions and pipes for Open WebUI.
@@ -34,6 +35,7 @@
 
 | Project | What I contributed |
 | --- | --- |
+| [generelschwerz/llama.cpp](https://github.com/generelschwerz/llama.cpp) (optllama) | `llama-bench` sweep flags for KV offload and workspace, a scheduler fix for multi-stream windows, 4D `src1` support in the ggml-cpu repack `MUL_MAT`, and a generalized architecture-coverage test suite |
 | [thecodacus/pithagoras](https://github.com/thecodacus/pithagoras) | Image generation and editing (several reference pictures, gallery, in-chat viewer), voice fillers, extension screens, animations, the Devices add-on, docs and release fixes |
 
 ## 📊 GitHub stats
@@ -43,6 +45,12 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piggidragon&layout=compact&langs_count=6&theme=transparent&hide_border=true" alt="Top languages">
 </p>
 
-## 💬 Ask me about
+## 💬 Find me on Discord
 
-Selfhosting, local AI, agents and Minecraft modding. The best way to reach me is an [issue or discussion](https://github.com/Piggidragon?tab=repositories) on one of my repos.
+<p>
+  <img src="https://img.shields.io/badge/Discord-Piggidragon-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: Piggidragon">
+  <a href="https://discord.gg/y53knate"><img src="https://img.shields.io/badge/optllama-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="optllama Discord"></a>
+  <a href="https://discord.gg/4HS2e8J9P"><img src="https://img.shields.io/badge/Codacus-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Codacus Discord"></a>
+</p>
+
+Ask me about selfhosting, local AI, agents and Minecraft modding.
