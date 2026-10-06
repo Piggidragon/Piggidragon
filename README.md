@@ -30,35 +30,6 @@
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
 </p>
 
-## 📌 Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Piggidragon/Pithagoras-Sync">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piggidragon&repo=Pithagoras-Sync&theme=transparent&hide_border=true" alt="Pithagoras-Sync">
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Piggidragon/OpenWebUI-plugins">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piggidragon&repo=OpenWebUI-plugins&theme=transparent&hide_border=true" alt="OpenWebUI-plugins">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Piggidragon/elementalrealms-neoforge-1.21.1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piggidragon&repo=elementalrealms-neoforge-1.21.1&theme=transparent&hide_border=true" alt="Elemental Realms">
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Piggidragon/dragonsrequiem-neoforge-1.21.1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piggidragon&repo=dragonsrequiem-neoforge-1.21.1&theme=transparent&hide_border=true" alt="Dragon's Requiem">
-      </a>
-    </td>
-  </tr>
-</table>
-
 ## 🤝 Open source contributions
 
 | Project | What I contributed |
