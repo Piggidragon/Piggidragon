@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/Piggidragon?style=for-the-badge&logo=github&label=Followers" alt="Followers">
   <img src="https://img.shields.io/badge/Location-Germany-informational?style=for-the-badge" alt="Location: Germany">
-  <img src="https://komarev.com/ghpvc/?username=Piggidragon&style=for-the-badge&label=Profile+views" alt="Profile views">
 </p>
 
 ---
