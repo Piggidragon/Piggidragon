@@ -14,7 +14,7 @@
 
 ## 🔭 What I'm working on
 
-- ⚡ **[optllama](https://github.com/generelschwerz/llama.cpp)**: a llama.cpp fork that I contribute to heavily, focused on **KV cache offload to RAM**, **unbalanced dual-GPU setups** and **partial KV cache residency**. 38 PRs so far, 7 of them still open.
+- ⚡ **[optllama](https://github.com/generelschwerz/llama.cpp)**: a llama.cpp fork that I contribute to heavily, focused on **KV cache offload to RAM**, **unbalanced dual-GPU setups** and **partial KV cache residency**.
 - 🧪 **[Piggidragon/llama.cpp](https://github.com/Piggidragon/llama.cpp)** (branch `llama-tensor`): my own optllama fork that merges my open PRs into one usable branch.
 - 🤖 **[Pithagoras](https://github.com/thecodacus/pithagoras)**: I'm an active contributor to this AI agent project. Image generation and editing with a gallery, voice improvements, UI polish and docs, and most recently the **Devices add-on**, which lets chats work with files and a shell on paired computers.
 - 🦀 **[Pithagoras-Sync](https://github.com/Piggidragon/Pithagoras-Sync)**: a single Rust binary that lets the Pithagoras agent reach any remote device natively, without SSH.
@@ -35,7 +35,7 @@
 
 | Project | What I contributed |
 | --- | --- |
-| [generelschwerz/llama.cpp](https://github.com/generelschwerz/llama.cpp) (optllama) | 38 PRs, 7 still open. **Host-resident KV cache:** pipelined delivery, head-split cache under split mode tensor, partial KV residency budget on the slowest link first. **Multi-GPU:** attention split separate from the tensor split, tied output projection split, meta transport ring per device share. **CUDA:** quantized-native MMA FlashAttention. **Also:** DFlash speculative decoding, `llama-bench` placement and sweep flags, scheduler fixes and the arch-coverage test suite |
+| [generelschwerz/llama.cpp](https://github.com/generelschwerz/llama.cpp) (optllama) | **Host-resident KV cache:** pipelined delivery, head-split cache under split mode tensor, partial KV residency budget on the slowest link first. **Multi-GPU:** attention split separate from the tensor split, tied output projection split, meta transport ring per device share. **CUDA:** quantized-native MMA FlashAttention. **Also:** DFlash speculative decoding, `llama-bench` placement and sweep flags, scheduler fixes and the arch-coverage test suite |
 | [thecodacus/pithagoras](https://github.com/thecodacus/pithagoras) | Image generation and editing (several reference pictures, gallery, in-chat viewer), voice fillers, extension screens, animations, the Devices add-on, docs and release fixes |
 
 ## 📊 GitHub stats
