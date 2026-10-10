@@ -17,7 +17,7 @@
 - ⚡ **[optllama](https://github.com/generelschwerz/llama.cpp)**: a llama.cpp fork that I contribute to heavily, focused on **KV cache offload to RAM**, **unbalanced dual-GPU setups** and **partial KV cache residency**.
 - 🧪 **[Piggidragon/llama.cpp](https://github.com/Piggidragon/llama.cpp)** (branch `llama-tensor`): my own optllama fork that merges my open PRs into one usable branch.
 - 🤖 **[Pithagoras](https://github.com/thecodacus/pithagoras)**: I'm an active contributor to this AI agent project. Image generation and editing with a gallery, voice improvements, UI polish and docs, and most recently the **Devices add-on**, which lets chats work with files and a shell on paired computers.
-- 🦀 **[Pithagoras-Sync](https://github.com/Piggidragon/Pithagoras-Sync)**: a single Rust binary that lets the Pithagoras agent reach any remote device natively, without SSH.
+- 🦀 **[Pithagoras-Connect](https://github.com/Piggidragon/Pithagoras-Connect)**: a single Rust binary that lets the Pithagoras agent reach any remote device natively, without SSH.
 - 🧩 **[OpenWebUI-plugins](https://github.com/Piggidragon/OpenWebUI-plugins)**: tools, functions and pipes for Open WebUI.
 - ⛏️ **Minecraft modding** with NeoForge: a magic and dimension mod, plus an Ender Dragon fight overhaul.
 
