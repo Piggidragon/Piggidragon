@@ -14,10 +14,10 @@
 
 ## 🔭 What I'm working on
 
-- ⚡ **[optllama](https://github.com/generelschwerz/llama.cpp)**: a llama.cpp fork that I contribute to heavily, focused on **KV cache offload to RAM**, **unbalanced dual-GPU setups** and **partial KV cache residency**.
-- 🧪 **[Piggidragon/llama.cpp](https://github.com/Piggidragon/llama.cpp)**: native flash attention kernels for Nvidia turing and upwards that decrease vram usage and inccrease speed on long context. Prompt caching is not only ram but on ssd too now so you dont need to recalculate old chats again.
+- 🧪 **[Piggidragon/llama.cpp](https://github.com/Piggidragon/llama.cpp)**: llama.cpp fork with quantized-native FlashAttention, prompt cache in RAM and on disk, smarter speculative decoding and multi-GPU over PCIe — faster long-context inference on unbalanced GPU pairs.
 - 🤖 **[Pithagoras](https://github.com/thecodacus/pithagoras)**: I'm an active contributor to this AI agent project. Image generation and editing with a gallery, voice improvements, UI polish and docs, and most recently the **Devices add-on**, which lets chats work with files and a shell on paired computers.
-- 🦀 **[Nerve-Protocol](https://github.com/Piggidragon/Nerve-Protocol)**: a single Rust binary that lets any harness reach any remote device natively, without SSH.
+- 🦀 **[Nerve-Protocol](https://github.com/Piggidragon/Nerve-Protocol)**: two Rust binaries, one MCP server. Let any agent reach any remote device with granular permission control — no uncontrollable SSH.
+- ⚡ **[optllama](https://github.com/generelschwerz/llama.cpp)**: a llama.cpp fork that I contribute to, focused on **KV cache offload to RAM**, **unbalanced dual-GPU setups** and **partial KV cache residency**.
 - 🧩 **[OpenWebUI-plugins](https://github.com/Piggidragon/OpenWebUI-plugins)**: tools, functions and pipes for Open WebUI.
 - ⛏️ **Minecraft modding** with NeoForge: a magic and dimension mod, plus an Ender Dragon fight overhaul.
 
