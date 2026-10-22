@@ -15,7 +15,7 @@
 ## 🔭 What I'm working on
 
 - 🧪 **[Piggidragon/llama.cpp](https://github.com/Piggidragon/llama.cpp)**: llama.cpp fork with quantized-native FlashAttention, prompt cache in RAM and on disk, smarter speculative decoding and multi-GPU over PCIe — faster long-context inference on unbalanced GPU pairs.
-- 🤖 **[Pithagoras](https://github.com/thecodacus/pithagoras)**: I'm an active contributor to this AI agent project. Image generation and editing with a gallery, voice improvements, UI polish and docs, and most recently the **Devices add-on**, which lets chats work with files and a shell on paired computers.
+- 🤖 **[Pithagoras](https://github.com/thecodacus/pithagoras)**: together with Codacus I worked on the full overhaul of this AI agent project — image generation and editing with a gallery, voice improvements, UI polish, docs and much more.
 - 🦀 **[Nerve-Protocol](https://github.com/Piggidragon/Nerve-Protocol)**: two Rust binaries, one MCP server. Let any agent reach any remote device with granular permission control — no uncontrollable SSH.
 - ⚡ **[optllama](https://github.com/generelschwerz/llama.cpp)**: a llama.cpp fork that I contribute to, focused on **KV cache offload to RAM**, **unbalanced dual-GPU setups** and **partial KV cache residency**.
 - 🧩 **[OpenWebUI-plugins](https://github.com/Piggidragon/OpenWebUI-plugins)**: tools, functions and pipes for Open WebUI.
@@ -36,7 +36,7 @@
 | Project | What I contributed |
 | --- | --- |
 | [generelschwerz/llama.cpp](https://github.com/generelschwerz/llama.cpp) (optllama) | **Host-resident KV cache:** pipelined delivery, head-split cache under split mode tensor, partial KV residency budget on the slowest link first. **Multi-GPU:** attention split separate from the tensor split, tied output projection split, meta transport ring per device share. **CUDA:** quantized-native MMA FlashAttention. **Also:** DFlash speculative decoding, `llama-bench` placement and sweep flags, scheduler fixes and the arch-coverage test suite |
-| [thecodacus/pithagoras](https://github.com/thecodacus/pithagoras) | Image generation and editing (several reference pictures, gallery, in-chat viewer), voice fillers, extension screens, animations, the Devices add-on, docs and release fixes |
+| [thecodacus/pithagoras](https://github.com/thecodacus/pithagoras) | Image generation and editing (several reference pictures, gallery, in-chat viewer), voice fillers, extension screens, animations, docs and release fixes — part of the full project overhaul I worked on with Codacus |
 
 ## 📊 GitHub stats
 
