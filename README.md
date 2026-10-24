@@ -14,9 +14,10 @@
 
 ## 🔭 What I'm working on
 
+- 🏛️ **[prometheion](https://github.com/prometheion)**: our open-source org with Codacus — home of Nerve-Protocol and the Pithagoras extensions, and Pithagoras itself is moving in there too.
 - 🧪 **[Piggidragon/llama.cpp](https://github.com/Piggidragon/llama.cpp)**: llama.cpp fork with quantized-native FlashAttention, prompt cache in RAM and on disk, smarter speculative decoding and multi-GPU over PCIe — faster long-context inference on unbalanced GPU pairs.
 - 🤖 **[Pithagoras](https://github.com/thecodacus/pithagoras)**: together with Codacus I overhauled this AI agent portal almost end to end — the shared Documents feature, the 3D memory graph, voice mode, images, Signal as a channel, theming and a lot of the portal settings.
-- 🦀 **[Nerve-Protocol](https://github.com/Piggidragon/Nerve-Protocol)**: two Rust binaries, one MCP server. Let any agent reach any remote device with granular permission control — no uncontrollable SSH.
+- 🦀 **[prometheion/nerve-protocol](https://github.com/prometheion/nerve-protocol)**: two Rust binaries, one MCP server. Let any agent reach any remote device with granular permission control — no uncontrollable SSH.
 - ⚡ **[optllama](https://github.com/generelschwerz/llama.cpp)**: a llama.cpp fork that I contribute to, focused on **KV cache offload to RAM**, **unbalanced dual-GPU setups** and **partial KV cache residency**.
 - 🧩 **[OpenWebUI-plugins](https://github.com/Piggidragon/OpenWebUI-plugins)**: tools, functions and pipes for Open WebUI.
 - ⛏️ **Minecraft modding** with NeoForge: a magic and dimension mod, plus an Ender Dragon fight overhaul.
