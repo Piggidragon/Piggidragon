@@ -17,7 +17,7 @@
 - 🏛️ **[prometheion](https://github.com/prometheion)**: our open-source org — home of Nerve-Protocol, Pithagoras and its extensions.
 - 🧪 **[Piggidragon/llama.cpp](https://github.com/Piggidragon/llama.cpp)**: llama.cpp fork with quantized-native FlashAttention, prompt cache in RAM and on disk, smarter speculative decoding and multi-GPU over PCIe — faster long-context inference on unbalanced GPU pairs.
 - 🤖 **[Pithagoras](https://github.com/thecodacus/pithagoras)**: a WebUI for the pi harness with an easy setup and a lot of customization. Optimized entirely for local AI.
-- 🦀 **[prometheion/nerve-protocol](https://github.com/prometheion/nerve-protocol)**: two Rust binaries, one MCP server. Let any agent reach any remote device with granular permission control — no uncontrollable SSH.
+- 🦀 **[nerve-protocol](https://github.com/prometheion/nerve-protocol)**: two Rust binaries, one MCP server. Let any agent reach any remote device with granular permission control — no uncontrollable SSH.
 - ⚡ **[optllama](https://github.com/generelschwerz/llama.cpp)**: a llama.cpp fork that I contribute to, focused on **KV cache offload to RAM**, **unbalanced dual-GPU setups** and **partial KV cache residency**.
 - 🧩 **[OpenWebUI-plugins](https://github.com/Piggidragon/OpenWebUI-plugins)**: tools, functions and pipes for Open WebUI.
 - ⛏️ **Minecraft modding** with NeoForge: a magic and dimension mod, plus an Ender Dragon fight overhaul.
